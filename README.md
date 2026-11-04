@@ -177,7 +177,7 @@ I'm a **Junior Software Engineer** based in Malang, Indonesia, currently studyin
       <a href="https://www.instagram.com/m0ng_iditalies/"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fm0ng_iditalies%2F&subtitle=%40m0ng_iditalies&size=square" width="190" alt="Instagram"></a>
     </td>
     <td align="center" width="33%">
-      <a href="https://www.linkedin.com/in/mochammad-rizky-zidane/"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmochammad-rizky-zidane%2F&subtitle=Mochammad%20Rizky%20Zidane&size=square" width="190" alt="LinkedIn"></a>
+      <a href="https://www.linkedin.com/in/mochammad-rizky-zidane-3901203a4/"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmochammad-rizky-zidane%2F&subtitle=Mochammad%20Rizky%20Zidane&size=square" width="190" alt="LinkedIn"></a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Latarombo"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FLatarombo&subtitle=Latarombo&size=square" width="190" alt="GitHub"></a>
