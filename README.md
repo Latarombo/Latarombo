@@ -127,18 +127,6 @@ I'm a **Junior Software Engineer** based in Malang, Indonesia, currently studyin
   <img src="https://streak-stats.demolab.com/?user=Latarombo&theme=github_dark_dimmed&hide_border=false" alt="GitHub streak">
 </p>
 
-### Trophies
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Latarombo&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies">
-</p>
-
-### Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contribution-card.vercel.app/api?username=Latarombo&limit=5&order_by=contributions&combine_all_yearly_contributions=true&theme=github_dark_dimmed&hide_border=false" alt="Top contributed repositories">
-</p>
-
 ---
 
 ## Contribution Graph
@@ -181,8 +169,6 @@ I'm a **Junior Software Engineer** based in Malang, Indonesia, currently studyin
 
 ## Connect with Me
 
-Discover my work and connect on these platforms.
-
 <table align="center">
   <tr>
     <td align="center" width="33%">
@@ -202,7 +188,11 @@ Discover my work and connect on these platforms.
 ## Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&backgroundColor=22272e&quoteColor=adbac7&authorColor=768390&symbolColor=539bf5" alt="Random dev quote">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&backgroundColor=22272e&quoteColor=adbac7&authorColor=768390&symbolColor=539bf5">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&backgroundColor=ffffff&quoteColor=1f2328&authorColor=59636e&symbolColor=0969da">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&backgroundColor=22272e&quoteColor=adbac7&authorColor=768390&symbolColor=539bf5" alt="Random dev quote">
+  </picture>
 </p>
 
 ---
