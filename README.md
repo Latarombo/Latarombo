@@ -130,26 +130,18 @@ I'm a **Junior Software Engineer** based in Malang, Indonesia, currently studyin
 ### Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Latarombo&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies">
+  <img src="https://trophy.ryglcloud.net/?username=Latarombo&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies">
 </p>
 
 ### Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Latarombo&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true" alt="Top contributed repositories">
+  <img src="https://github-contribution-card.vercel.app/api?username=Latarombo&limit=5&order_by=contributions&combine_all_yearly_contributions=true&theme=github_dark_dimmed&hide_border=false" alt="Top contributed repositories">
 </p>
 
 ---
 
 ## Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Latarombo/Latarombo/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Latarombo/Latarombo/output/github-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Latarombo/Latarombo/output/github-snake.svg" width="100%">
-  </picture>
-</p>
 
 <p align="center">
   <picture>
