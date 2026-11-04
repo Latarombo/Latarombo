@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img alt="Mochammad Rizky Zidane - Junior Software Engineer" src="./assets/banner-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-cubes-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-cubes-light.svg">
+    <img alt="Animated isometric cubes banner" src="./assets/banner-cubes-dark.svg" width="100%">
   </picture>
 </p>
 
@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <td width="68%" valign="middle">
+    <td width="60%" valign="middle">
 
 I'm a **Junior Software Engineer** based in Malang, Indonesia, currently studying at **SMK Negeri 4 Malang**. I love turning ideas into working products and exploring how **AI and Machine Learning** can solve real-world problems.
 
@@ -37,8 +37,8 @@ I'm a **Junior Software Engineer** based in Malang, Indonesia, currently studyin
 - Ask me about anything related to frontend, backend, or mobile development
 
   </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="./assets/developer.gif" alt="Developer coding animation" width="245">
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" alt="Illustration of a developer coding on a laptop" width="300">
     </td>
   </tr>
 </table>
