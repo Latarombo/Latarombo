@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=400&bannerText=Hi There, I'm Mochammad Rizky Zidane">
-    <source media="(prefers-color-scheme: light)" srcset="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?backgroundColor=%23dddddd&color=%23000000&bannerText=Hi+There%2C+I%27m+Mochammad+Rizky+Zidane&bannerColor=%23222222&height=400">
-    <img alt="Animated isometric cubes banner" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=400&bannerText=Hi There, I'm Mochammad Rizky Zidane" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=400&bannerText=Hi+There%2C+I%27m+Mochammad+Rizky+Zidane">
+    <source media="(prefers-color-scheme: light)" srcset="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=400&bannerText=Hi+There%2C+I%27m+Mochammad+Rizky+Zidane">
+    <img alt="Hi There, I'm Mochammad Rizky Zidane" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=400&bannerText=Hi+There%2C+I%27m+Mochammad+Rizky+Zidane" width="100%">
   </picture>
 </p>
 
