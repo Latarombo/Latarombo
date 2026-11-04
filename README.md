@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-cubes-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-cubes-light.svg">
-    <img alt="Animated isometric cubes banner" src="./assets/banner-cubes-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=400&bannerText=Hi There, I'm Mochammad Rizky Zidane">
+    <source media="(prefers-color-scheme: light)" srcset="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?backgroundColor=%23dddddd&color=%23000000&bannerText=Hi+There%2C+I%27m+Mochammad+Rizky+Zidane&bannerColor=%23222222&height=400">
+    <img alt="Animated isometric cubes banner" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=400&bannerText=Hi There, I'm Mochammad Rizky Zidane" width="100%">
   </picture>
 </p>
 
@@ -25,9 +25,7 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="middle">
+<p><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" alt="Illustration of a developer coding on a laptop" width="350" align="right"></p>
 
 I'm a **Junior Software Engineer** based in Malang, Indonesia, currently studying at **SMK Negeri 4 Malang**. I love turning ideas into working products and exploring how **AI and Machine Learning** can solve real-world problems.
 
@@ -36,12 +34,7 @@ I'm a **Junior Software Engineer** based in Malang, Indonesia, currently studyin
 - Open to collaboration on open-source and student projects
 - Ask me about anything related to frontend, backend, or mobile development
 
-  </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" alt="Illustration of a developer coding on a laptop" width="300">
-    </td>
-  </tr>
-</table>
+<br clear="all">
 
 ---
 
@@ -119,12 +112,17 @@ I'm a **Junior Software Engineer** based in Malang, Indonesia, currently studyin
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=Latarombo&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats">
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Latarombo&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages">
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Latarombo&theme=holi&animation=rgb-soft&duration=10&name=Moch.+Rizky+Zidane" alt="Profile details">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Latarombo&theme=github_dark_dimmed&hide_border=false" alt="GitHub streak">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Latarombo&theme=holi&animation=rgb-soft&duration=10" alt="Repositories per language">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Latarombo&theme=holi&animation=rgb-soft&duration=10" alt="Most commit language">
+</p>
+
+<p align="center">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Latarombo&theme=holi&animation=rgb-soft&duration=10" alt="GitHub stats">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Latarombo&theme=holi&animation=rgb-soft&duration=10&timeZone=Asia%2FJakarta" alt="Productive time">
 </p>
 
 ---
@@ -137,6 +135,10 @@ I'm a **Junior Software Engineer** based in Malang, Indonesia, currently studyin
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Latarombo/Latarombo/output/pacman-contribution-graph.svg">
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Latarombo/Latarombo/output/pacman-contribution-graph.svg" width="100%">
   </picture>
+</p>
+
+<p align="center">
+  <img src="./assets/bonsai-Latarombo.gif" alt="Animated bonsai tree" width="160">
 </p>
 
 ---
